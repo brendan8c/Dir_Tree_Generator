@@ -1,7 +1,7 @@
 <p align="center">
   <img src="readme_md/example.png" alt="Alt Text" width="80%">
 </p>
-  <table align="center">
+  <div align="center">
     <!-- <tr>
         <td rowspan="2">
             <a href="https://github.com/FFmpeg/FFmpeg">
@@ -14,19 +14,19 @@
             </a>
         </td>
     </tr> -->
-    <tr>
+    <div>
         <!-- <td>
             <a href="https://www.paypal.com/paypalme/artemguskov/5usd">
                 <img src="https://raw.githubusercontent.com/Brendan8c/FFMPEG_BAT/master/img/PayPal.svg" width="100px">
             </a>
         </td> -->
-        <td>
+        <div>
             <a href="https://img.shields.io/github/license/brendan8c/Dir_Tree_Generator">
                 <img src="https://img.shields.io/badge/License-MIT-green.svg" width="100px">
             </a>
-        </td>
-    </tr>
-</table>
+        </div>
+    </div>
+</div>
 
 <details>
     <summary>---------------------------------------------:us: :us: :us: ENGLISH :us: :us: :us:---------------------------------------------</summary>
