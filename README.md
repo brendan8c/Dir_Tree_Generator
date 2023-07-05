@@ -23,7 +23,7 @@ For Windows: `pyinstaller --onefile --windowed --icon=app.ico DirTreeGenerator.p
 
 
 - Установите необходимые зависимости:  
-`pip install pyinstaller`,`pip instal pyqt5`, `pip install pyqt5-tools`  
+`pip install pyinstaller`, `pip instal pyqt5`, `pip install pyqt5-tools`  
 
 
 - Для того чтобы добавить свой шрифт, вам нужно преобразовать его в формат base64, для этого в файле **Font_base64.py** отредактируйте эту строку `font_file = "TiltNeon-Regular.ttf"` изменив значение переменной на название вашего шрифта., Запустите данный файл, после чего он создаст текстовый файл **Font_base64.txt** который будет содержать нужную вам кодировку., Затем в файле **DirTreeGenerator\.py** измените значение переменной `base64_font = 'your_base64_here'` на ваши символы base64.  
