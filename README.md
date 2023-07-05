@@ -2,24 +2,24 @@
   <img src="readme_md/example.png" alt="Alt Text" width="80%">
 </p>
   <div align="center">
-    <!-- <tr>
-        <td rowspan="2">
+    <!-- <div>
+        <div>
             <a href="https://github.com/FFmpeg/FFmpeg">
                 <img src=https://raw.githubusercontent.com/Brendan8c/FFMPEG_BAT/master/img/FFmpeg.svg width="70px" style="margin-top:-50px">
             </a>
-        </td>
-        <td colspan="2">
+        </div>
+        <div>
             <a href="https://ko-fi.com/brendan8c">
                 <img src="https://www.ko-fi.com/img/githubbutton_sm.svg" width="226px">
             </a>
-        </td>
-    </tr> -->
+        </div>
+    </div> -->
     <div>
-        <!-- <td>
+        <!-- <div>
             <a href="https://www.paypal.com/paypalme/artemguskov/5usd">
                 <img src="https://raw.githubusercontent.com/Brendan8c/FFMPEG_BAT/master/img/PayPal.svg" width="100px">
             </a>
-        </td> -->
+        </div> -->
         <div>
             <a href="https://img.shields.io/github/license/brendan8c/Dir_Tree_Generator">
                 <img src="https://img.shields.io/badge/License-MIT-green.svg" width="100px">
@@ -27,6 +27,7 @@
         </div>
     </div>
 </div>
+
 
 <details>
     <summary>---------------------------------------------:us: :us: :us: ENGLISH :us: :us: :us:---------------------------------------------</summary>
