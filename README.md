@@ -4,7 +4,7 @@
 #### Пример вывода:
 
 <p align="left">
-  <img src="readme_md/example.png" alt="Alt Text" width="50%">
+  <img src="readme_md/example.png" alt="Alt Text" width="80%">
 </p>
 
 #### Как использовать:
