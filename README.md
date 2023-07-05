@@ -1,5 +1,6 @@
+<p align="center">
   <img src="readme_md/example.png" alt="Alt Text" width="80%">
-
+</p>
   <table align="center">
     <!-- <tr>
         <td rowspan="2">
@@ -78,9 +79,9 @@ For Windows: `pyinstaller --onefile --windowed --icon=app.ico DirTreeGenerator.p
 </p>
 
 - Если вы хотите сами собрать проект используйте эти ключи.  
-For Linux: `pyinstaller --onefile --windowed --icon=app.png DirTreeGenerator.py`  
-For macOS: `pyinstaller --onefile --windowed --icon=app.icns DirTreeGenerator.py`  
-For Windows: `pyinstaller --onefile --windowed --icon=app.ico DirTreeGenerator.py`  
+Для Linux: `pyinstaller --onefile --windowed --icon=app.png DirTreeGenerator.py`  
+Для macOS: `pyinstaller --onefile --windowed --icon=app.icns DirTreeGenerator.py`  
+Для Windows: `pyinstaller --onefile --windowed --icon=app.ico DirTreeGenerator.py`  
 
 
 - Установите необходимые зависимости:  
