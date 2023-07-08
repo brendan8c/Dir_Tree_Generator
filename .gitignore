@@ -1,7 +1,9 @@
 dist
+build
 Dir Tree Generator.exe
 folder_structure.txt
 desktop.ini
-
-# Editor directories and files
+Code_base64.txt
 .vscode/*
+*.spec
+example.psd
