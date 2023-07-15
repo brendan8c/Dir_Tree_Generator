@@ -56,8 +56,8 @@ For Windows: `pyinstaller --onefile --windowed --icon=app.ico DirTreeGenerator.p
 `pip install pyinstaller`, `pip install pyqt5`  
 
 
-- In order to add your font, you need to convert it to base64 format, for this, in the file **Font_base64.py** edit this line `font_file = "TiltNeon-Regular.ttf"` by changing the value of the variable to the name of your font., Run this file, after which it will create a text file **Font_base64.txt** which will contain the encoding you need., then in the file **DirTreeGenerator\.py** change the value of the variable `base64_font = 'your_base64_here'` to your base64 characters.  
-- To change the file icon for the Windows taskbar, you also need to convert it to base64 format by specifying your icon file in place of `font_file = "TiltNeon-Regular.ttf"` in the **Font_base64.py** file. Then you can change it in the `base64_icon = 'your_base64_here'` variable.  
+- In order to add your font, you need to convert it to base64 format, for this, in the file **Code_base64.py** edit this line `font_file = "TiltNeon-Regular.ttf"` by changing the value of the variable to the name of your font., Run this file, after which it will create a text file **Font_base64.txt** which will contain the encoding you need., then in the file **DirTreeGenerator\.py** change the value of the variable `base64_font = 'your_base64_here'` to your base64 characters.  
+- To change the file icon for the Windows taskbar, you also need to convert it to base64 format by specifying your icon file in place of `font_file = "TiltNeon-Regular.ttf"` in the **Code_base64.py** file. Then you can change it in the `base64_icon = 'your_base64_here'` variable.  
 
 
 - If you have any suggestions or questions, you can ask them in this repository! :speech_balloon:  
@@ -92,8 +92,8 @@ For Windows: `pyinstaller --onefile --windowed --icon=app.ico DirTreeGenerator.p
 `pip install pyinstaller`, `pip install pyqt5`  
 
 
-- Для того чтобы добавить свой шрифт, вам нужно преобразовать его в формат base64, для этого в файле **Font_base64.py** отредактируйте эту строку `font_file = "TiltNeon-Regular.ttf"` изменив значение переменной на название вашего шрифта., Запустите данный файл, после чего он создаст текстовый файл **Font_base64.txt** который будет содержать нужную вам кодировку., Затем в файле **DirTreeGenerator\.py** измените значение переменной `base64_font = 'your_base64_here'` на ваши символы base64.  
-- Чтобы изменить иконку файла для панели задач в Windows вам так-же нужно преобразовать её в формат base64, указав в файле **Font_base64.py** за место `font_file = "TiltNeon-Regular.ttf"` ваш файл с иконкой. После чего вы сожете изменить её в переменной `base64_icon = 'your_base64_here'`.  
+- Для того чтобы добавить свой шрифт, вам нужно преобразовать его в формат base64, для этого в файле **Code_base64.py** отредактируйте эту строку `font_file = "TiltNeon-Regular.ttf"` изменив значение переменной на название вашего шрифта., Запустите данный файл, после чего он создаст текстовый файл **Font_base64.txt** который будет содержать нужную вам кодировку., Затем в файле **DirTreeGenerator\.py** измените значение переменной `base64_font = 'your_base64_here'` на ваши символы base64.  
+- Чтобы изменить иконку файла для панели задач в Windows вам так-же нужно преобразовать её в формат base64, указав в файле **Code_base64.py** за место `font_file = "TiltNeon-Regular.ttf"` ваш файл с иконкой. После чего вы сожете изменить её в переменной `base64_icon = 'your_base64_here'`.  
 
 
 - Если у вас есть какие-то предложения или вопросы вы можете их задать в этом репозитории! :speech_balloon:  
